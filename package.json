@@ -1,0 +1,20 @@
+{
+  "name": "mongodb-express-example",
+  "version": "1.0.0",
+  "description": "A simple Node.js Express example with MongoDB integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
